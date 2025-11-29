@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
+                "file": "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
+                "file": "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
+                "file": "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/Untitled.md"
+                "file": "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
     "README.md",
-    "대규모 시스템 설계 책 스터디/Untitled.md",
+    "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
     "대규모 시스템 설계 책 스터디"
   ]
 }
