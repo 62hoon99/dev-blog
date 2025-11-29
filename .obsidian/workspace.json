@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "대규모 시스템 설계 책 스터디/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "대규모 시스템 설계 책 스터디/Untitled.md"
               }
             }
           }
@@ -147,8 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a219780ff2757fcd",
+  "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "Untitled"
+    "README.md",
+    "대규모 시스템 설계 책 스터디/Untitled.md",
+    "대규모 시스템 설계 책 스터디"
   ]
 }
