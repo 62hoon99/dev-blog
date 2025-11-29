@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md",
+                "file": "읽기 좋은 코드/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md",
+                "file": "읽기 좋은 코드/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md",
+                "file": "읽기 좋은 코드/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md"
+                "file": "읽기 좋은 코드/Untitled.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a219780ff2757fcd",
+  "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "Untitled",
-    "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
     "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md",
+    "읽기 좋은 코드/Untitled.md",
+    "읽기 좋은 코드",
+    "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
     "README.md",
     "대규모 시스템 설계 책 스터디"
   ]
