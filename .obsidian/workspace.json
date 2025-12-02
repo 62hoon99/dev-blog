@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md",
+                "file": "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md",
+                "file": "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md",
+                "file": "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md"
+                "file": "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "Pasted image 20251130152815.png",
-    "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
-    "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md",
     "읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md",
+    "읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
     "대규모 시스템 설계 책 스터디/사용자 수에 따른 규모 확장성.md",
+    "대규모 시스템 설계 책 스터디/분산 시스템을 위한 유일 ID 생성기 설계.md",
+    "Pasted image 20251130152815.png",
     "대규모 시스템 설계 책 스터디/마스터 슬레이브 DB 구성 실습.md",
     "README.md",
     "읽기 좋은 코드",
