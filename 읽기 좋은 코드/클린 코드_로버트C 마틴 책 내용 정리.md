@@ -49,6 +49,33 @@
 
 ### Try/Catch 블록 뽑아내기
 try/catch 블록은 추하다. 코드 구조에 혼란을 일으키며, 정상 동작과 오류 처리 동작을 뒤섞는다. 그러므로 try/catch 블록을 별도 함수로 뽑아내는 편이 좋다.
-``` Java
 
+**before**
+``` Java
+public void deletePage(Page page) {
+    try {
+        deletePage(page);
+        registry.deleteReference(page.name);
+        configKeys.deleteKey(page.name.makeKey());
+    } catch (Exception e) {
+        log.error(e.getMessage());
+    }
+}
+```
+
+**after**
+``` Java
+public void deletePage(Page page) {
+    try {
+        deletePageAndAllReferences(page);
+    } catch (Exception e) {
+        log.error(e.getMessage());
+    }
+}
+
+public void deletePageAndAllReferences(Page page) throws Exception {
+    deletePage(page);
+    registry.deleteReference(page.name);
+    configKeys.deleteKey(page.name.makeKey());
+}
 ```
