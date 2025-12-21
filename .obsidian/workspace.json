@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md",
+                "file": "읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md",
+                "file": "읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md",
+                "file": "읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md"
+                "file": "읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "기술 블로그 읽고 배우기/올리브영/올리브영 결제 이야기.md",
     "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md",
+    "기술 블로그 읽고 배우기/올리브영/올리브영 결제 이야기.md",
     "README.md",
     "대규모 시스템 설계 책 스터디/키-값 저장소 실습.md",
     "대규모 시스템 설계 책 스터디/키-값 저장소 설계.md",
