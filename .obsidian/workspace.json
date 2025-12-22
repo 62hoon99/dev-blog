@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29ed9f1e8ad44354",
@@ -147,7 +148,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ff20884f16efae",
+  "active": "a219780ff2757fcd",
   "lastOpenFiles": [
     "대규모 시스템 설계 책 스터디/웹 크롤러 설계.md",
     "기술 블로그 읽고 배우기/올리브영/올리브영 결제 이야기.md",
