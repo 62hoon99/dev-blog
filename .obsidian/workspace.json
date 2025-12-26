@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
+    "README.md",
     "Study/README.md",
     "Insights/README.md",
-    "README.md",
     "Study/읽기 좋은 코드/README.md",
     "Study/토비의 스프링 부트/README.md",
     "Study/토비의 스프링 부트/4주차 섹션7 ~ 섹션8.md",
