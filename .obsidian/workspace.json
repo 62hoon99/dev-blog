@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,28 +149,33 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "README.md",
     "Study/README.md",
-    "Insights/README.md",
-    "Study/읽기 좋은 코드/README.md",
     "Study/토비의 스프링 부트/README.md",
     "Study/토비의 스프링 부트/4주차 섹션7 ~ 섹션8.md",
-    "Study/대규모 시스템 설계/README.md",
-    "Study/읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
-    "Study/읽기 좋은 코드/코드 작성 가이드_이시가와 무네토시 책 내용 정리.md",
+    "Study/토비의 스프링 부트/3주차 섹션5 ~ 섹션6.md",
+    "Study/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
+    "Study/토비의 스프링 부트/1주차 섹션0 ~ 섹션2.md",
     "Study/읽기 좋은 코드/읽기 쉬운 코드_마크 시먼  책 내용 정리.md",
-    "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
-    "Insights/요즘IT",
-    "Insights/올리브영/올리브영 쿠폰 발급 개선기와 직접 만들어보기.md",
-    "Insights/올리브영/올리브영 결제 이야기.md",
-    "Projects/README.md",
+    "Study/대규모 시스템 설계/README.md",
+    "Study/대규모 시스템 설계/URL 단축기 설계.md",
+    "Study/대규모 시스템 설계/키-값 저장소 실습.md",
+    "Study/대규모 시스템 설계/키-값 저장소 설계.md",
+    "Study/대규모 시스템 설계/처리율 제한 장치의 설계.md",
+    "Study/대규모 시스템 설계/처리율 제한 장치 실습.md",
+    "Study/대규모 시스템 설계/웹 크롤러 설계.md",
+    "Study/대규모 시스템 설계/안정 해시 설계.md",
+    "Study/대규모 시스템 설계/사용자 수에 따른 규모 확장성.md",
     "Study/대규모 시스템 설계/분산 시스템을 위한 유일 ID 생성기 설계.md",
     "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
-    "Study/대규모 시스템 설계/키-값 저장소 설계.md",
-    "Study/대규모 시스템 설계/키-값 저장소 실습.md",
-    "Study/대규모 시스템 설계/URL 단축기 설계.md",
-    "Study/대규모 시스템 설계/처리율 제한 장치 실습.md",
-    "Study/대규모 시스템 설계/처리율 제한 장치의 설계.md",
+    "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
+    "Insights/올리브영/올리브영 쿠폰 발급 개선기와 직접 만들어보기.md",
+    "Insights/올리브영/올리브영 결제 이야기.md",
+    "README.md",
+    "Insights/README.md",
+    "Study/읽기 좋은 코드/README.md",
+    "Study/읽기 좋은 코드/클린 코드_로버트C 마틴 책 내용 정리.md",
+    "Study/읽기 좋은 코드/코드 작성 가이드_이시가와 무네토시 책 내용 정리.md",
+    "Insights/요즘IT",
     "Assets/images/rate-limit-python-result.png",
     "Assets/images/rate-limit-jmeter.png",
     "Assets/images/rate-limit-test.png",
@@ -181,17 +186,12 @@
     "Assets/images/auth-email-example.png",
     "Assets/images/oliveyoung-coupon-diagram1.png",
     "Assets/images/oliveyoung-coupon-diagram2.png",
-    "Study/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
-    "Study/토비의 스프링 부트/1주차 섹션0 ~ 섹션2.md",
-    "Study/토비의 스프링 부트/3주차 섹션5 ~ 섹션6.md",
     "Assets/images",
     "Assets",
-    "1주차.md",
     "Study/토비의 스프링 부트",
     "Study",
     "Projects",
     "기술 블로그 읽고 배우기/요즘IT",
-    "Study/대규모 시스템 설계/웹 크롤러 설계.md",
     "Insights/올리브영",
     "Insights",
     "Study/읽기 좋은 코드"

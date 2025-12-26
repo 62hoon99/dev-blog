@@ -46,7 +46,7 @@ UUID를 ID로 사용하면 만들기도 쉽고, 중복될 확률이 웬만해서
 ## 트위터 스노플레이크 접근법
 
 트위터가 공개한 스노플레이크 오리지널 구조
-![[../../Assets/images/snowflake_architecture.png]]
+![](../../Assets/images/snowflake_architecture.png)
 
 - 사인 비트(1bit): 지금은 쓰임세 X, 나중에 사용하기 위한 용도
 - 타임스탬프(41bit): 기원 시각 이후로 몇 밀리초가 경과했는지 나타내는 값
