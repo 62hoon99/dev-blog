@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스터디/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
+                "file": "스터디/토비의 스프링 부트/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
+                "file": "스터디/토비의 스프링 부트/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
+                "file": "스터디/토비의 스프링 부트/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스터디/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md"
+                "file": "스터디/토비의 스프링 부트/Untitled.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
-    "Pasted image 20251226162819.png",
-    "스터디/토비의 스프링 부트/README.md.md",
     "스터디/토비의 스프링 부트/2주차 섹션3 ~ 섹션4.md",
+    "스터디/토비의 스프링 부트/README.md.md",
+    "스터디/토비의 스프링 부트/Untitled.md",
+    "Pasted image 20251226162819.png",
     "스터디/토비의 스프링 부트/1주차 섹션0 ~ 섹션2.md",
     "학습 후 공유/이메일 인증 종류 별로 구현해보기.md",
     "스터디/토비의 스프링 부트",
@@ -168,7 +169,6 @@
     "Pasted image 20251215194756.png",
     "Pasted image 20251214132920.png",
     "Pasted image 20251214131801.png",
-    "Pasted image 20251204202533.png",
     "읽기 좋은 코드/코드 작성 가이드_이시가와 무네토시 책 내용 정리.md",
     "스터디/대규모 시스템 설계/웹 크롤러 설계.md",
     "기술 블로그 읽고 배우기/올리브영/올리브영 결제 이야기.md",
