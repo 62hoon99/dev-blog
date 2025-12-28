@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/web/실습으로 배우는 선착순 이벤트 시스템.md",
+                "file": "Study/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/web/실습으로 배우는 선착순 이벤트 시스템.md",
+                "file": "Study/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/web/실습으로 배우는 선착순 이벤트 시스템.md",
+                "file": "Study/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/web/실습으로 배우는 선착순 이벤트 시스템.md"
+                "file": "Study/README.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ff20884f16efae",
+  "active": "a219780ff2757fcd",
   "lastOpenFiles": [
+    "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
     "Study/토비의 스프링 부트/README.md",
-    "Study/web/실습으로 배우는 선착순 이벤트 시스템.md",
-    "Study/web",
+    "Study/Web",
     "Study/토비의 스프링 부트/1주차 섹션0 ~ 섹션2.md",
     "Insights/올리브영/Redis Pub-Sub을 활용한 쿠폰 발급 비동기 처리.md",
     "Insights/올리브영/올리브영 쿠폰 발급 개선기와 직접 만들어보기.md",
