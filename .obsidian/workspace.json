@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/디자인 패턴/README.md",
+                "file": "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/디자인 패턴/README.md",
+                "file": "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/디자인 패턴/README.md",
+                "file": "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/디자인 패턴/README.md"
+                "file": "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "47ff20884f16efae",
   "lastOpenFiles": [
+    "Study/GOF 디자인 패턴/README.md",
+    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md",
+    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴",
     "Study/토비의 스프링 부트/README.md",
-    "Study/디자인 패턴/README.md",
     "Study/Web/README.md",
-    "Study/디자인 패턴",
+    "Study/GOF 디자인 패턴",
     "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
     "Study/README.md",
     "README.md",
@@ -176,7 +178,6 @@
     "Study/대규모 시스템 설계/안정 해시 설계.md",
     "Study/대규모 시스템 설계/사용자 수에 따른 규모 확장성.md",
     "Study/대규모 시스템 설계/분산 시스템을 위한 유일 ID 생성기 설계.md",
-    "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
     "Insights/요즘IT",
     "Assets/images/rate-limit-python-result.png",
     "Assets/images/rate-limit-jmeter.png",
@@ -193,7 +194,6 @@
     "Study/토비의 스프링 부트",
     "Study",
     "Projects",
-    "기술 블로그 읽고 배우기/요즘IT",
-    "Insights/올리브영"
+    "기술 블로그 읽고 배우기/요즘IT"
   ]
 }
