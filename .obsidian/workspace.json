@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "70e3afe239db206b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ff20884f16efae",
+  "active": "70e3afe239db206b",
   "lastOpenFiles": [
+    "Open Source/README.md",
+    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
+    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/빌더 패턴과 스텝 빌더 패턴.md",
+    "README.md",
+    "Study/읽기 좋은 코드/README.md",
+    "Study/GOF 디자인 패턴/README.md",
+    "Study/Web/README.md",
+    "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
+    "Open Source",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas",
@@ -193,19 +217,12 @@
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/프로토타입 패턴.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/추상 팩토리 패턴.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/팩토리 메서드 패턴.md",
-    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/빌더 패턴과 스텝 빌더 패턴.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/싱글톤 패턴.md",
-    "Study/GOF 디자인 패턴/README.md",
     "Untitled.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴",
     "Study/토비의 스프링 부트/README.md",
-    "Study/Web/README.md",
     "Study/GOF 디자인 패턴",
-    "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
-    "Study/README.md",
-    "README.md",
     "Study/Web",
-    "Study/토비의 스프링 부트/1주차 섹션0 ~ 섹션2.md",
     "Insights/요즘IT",
     "Assets/images/rate-limit-python-result.png",
     "Assets/images/rate-limit-jmeter.png",
@@ -216,7 +233,6 @@
     "Assets/images/auth-email-1-mail.png",
     "Assets/images/auth-email-example.png",
     "Assets/images",
-    "Assets",
-    "Study/토비의 스프링 부트"
+    "Assets"
   ]
 }
