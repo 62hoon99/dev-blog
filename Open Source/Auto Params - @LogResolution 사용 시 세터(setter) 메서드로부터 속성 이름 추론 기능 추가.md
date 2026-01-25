@@ -1,6 +1,6 @@
 # Auto Params
 ## Auto Params 오픈 소스에 기여하게 된 계기
-[오픈 소스 기여 모임](https://github.com/opensource-contributors-group) 10기에 참가하여 기여할 오픈 소스를 모색하던 중, 이 전에 '한국 스프링 사용자 모임'에서 주관한 [스프링 캠프 2024](https://springcamp.ksug.org/2024/) 에서 Auto Params의 메인테이너이신 이규원님의 세션을 들었었던 기억이 있어서 해당 오픈소스를 알고 있었고, 사용해본 경
+[오픈 소스 기여 모임](https://github.com/opensource-contributors-group) 10기에 참가하여 기여할 오픈 소스를 모색하던 중, 이 전에 '한국 스프링 사용자 모임'에서 주관한 [스프링 캠프 2024](https://springcamp.ksug.org/2024/) 에서 Auto Params의 메인테이너이신 이규원님의 세션을 들었었던 기억이 있어서 해당 오픈소스를 알고 있었고, 사용해본 경험은 없었지만 어떤 오픈 소스인지 알고 있었습니다. 그래서 Auto Params의 Github에 들어가 등록되어 있는 이슈 중 해결 가능한 이슈를 선택하여 기여를 진행하게 되었습니다.
 
 ## Auto Params 오픈 소스에 대한 간단 설명
 AutoParams는 Java 및 Kotlin으로 작성된 테스트 데이터 생성기입니다.
@@ -50,4 +50,6 @@ User user (4ms)
  └─ String username → username28fcf5cf-dfea-4a78-9560-58542b1dc35f (< 1ms)
 ```
 
-# 
+# 이슈 선정 및 내용 파악
+## 이슈 선정
+[해당 이슈](https://github.com/AutoParams/AutoParams/issues/318)는 메인테이너가 제목만 작성한 이슈였습니다. 이슈의 제목은 `@LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가` 이었습니다. 저는 이슈 파악을 위해 Auto Params의 [공식 문서](https://autoparams.github.io/) 를 통해 @LogResolution 이 무슨 어노테이션인지 파악하였습니다. 그리고 
