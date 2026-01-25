@@ -199,8 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f157c7ba2b23716",
+  "active": "a219780ff2757fcd",
   "lastOpenFiles": [
+    "Assets/images/news_feed_arch3.png",
+    "Assets/images/news_feed_arch2.png",
+    "Pasted image 20260125212929.png",
+    "Pasted image 20260125212821.png",
+    "Study/대규모 시스템 설계/뉴스 피드 시스템 설계.md",
     "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
     "Study/대규모 시스템 설계/분산 시스템을 위한 유일 ID 생성기 설계.md",
     "Study/대규모 시스템 설계/사용자 수에 따른 규모 확장성.md",
@@ -211,7 +216,6 @@
     "Study/대규모 시스템 설계/웹 크롤러 설계.md",
     "Study/README.md",
     "Assets/images/news_feed_arch1.png",
-    "Study/대규모 시스템 설계/뉴스 피드 시스템 설계.md",
     "Study/정보처리기사/필기/2022 2회차.md",
     "Study/정보처리기사/필기/2024 2회차.md",
     "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
@@ -239,14 +243,10 @@
     "Study/대규모 시스템 설계/처리율 제한 장치의 설계.md",
     "Study/대규모 시스템 설계/키-값 저장소 실습.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/프로토타입 패턴.md",
-    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/추상 팩토리 패턴.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴",
     "Study/GOF 디자인 패턴",
     "Study/Web",
     "Insights/요즘IT",
-    "Assets/images/rate-limit-python-result.png",
-    "Assets/images/rate-limit-jmeter.png",
-    "Assets/images/rate-limit-test.png",
-    "Assets/images/tosspayments-pay-cycle.png"
+    "Assets/images/rate-limit-python-result.png"
   ]
 }
