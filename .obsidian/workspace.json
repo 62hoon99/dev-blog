@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/정보처리기사/필기.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "필기"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "29ed9f1e8ad44354",
@@ -175,6 +174,7 @@
   "lastOpenFiles": [
     "Untitled 1.base",
     "Untitled.base",
+    "Untitled.canvas",
     "Study/정보처리기사/필기.md",
     "Study/정보처리기사",
     "Assets/images/notification_arch2.png",
@@ -217,7 +217,6 @@
     "Assets/images/auth-email-example.png",
     "Assets/images",
     "Assets",
-    "Study/토비의 스프링 부트",
-    "Study"
+    "Study/토비의 스프링 부트"
   ]
 }
