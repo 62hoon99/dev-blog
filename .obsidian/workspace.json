@@ -201,11 +201,13 @@
   },
   "active": "6f157c7ba2b23716",
   "lastOpenFiles": [
+    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
+    "Study/정보처리기사/필기/2024 2회차.md",
+    "Assets/images/binary-tree1.png",
     "Study/정보처리기사/필기",
     "Open Source/README.md",
     "README.md",
     "OpenSource",
-    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Assets/images/snowflake_architecture.png",
     "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/빌더 패턴과 스텝 빌더 패턴.md",
@@ -218,7 +220,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas",
-    "Study/정보처리기사/필기/2024 2회차.md",
     "Study/정보처리기사",
     "Assets/images/notification_arch2.png",
     "Study/대규모 시스템 설계/알림 시스템 설계.md",
@@ -245,8 +246,6 @@
     "Assets/images/rate-limit-jmeter.png",
     "Assets/images/rate-limit-test.png",
     "Assets/images/tosspayments-pay-cycle.png",
-    "Assets/images/auth-email-1-input.png",
-    "Assets/images/auth-email-1-mail.png",
-    "Assets/images"
+    "Assets/images/auth-email-1-input.png"
   ]
 }
