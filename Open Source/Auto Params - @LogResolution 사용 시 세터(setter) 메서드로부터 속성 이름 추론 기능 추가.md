@@ -90,7 +90,7 @@ User user (5ms)
 
 코멘트를 남긴 후 바로 코드 수정을 진행했습니다.
 
-![[open-source-auto-params-log1.png]]
+![[../Assets/images/open-source-auto-params-log1.png]]
 
 # 코드 수정 및 Pull Request 오픈
 
