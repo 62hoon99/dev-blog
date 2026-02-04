@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/정보처리기사/필기/2024 2회차.md",
+                "file": "Study/정보처리기사/필기/2024 3회차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024 2회차"
+              "title": "2024 3회차"
             }
           }
         ],
@@ -199,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a219780ff2757fcd",
+  "active": "6f157c7ba2b23716",
   "lastOpenFiles": [
-    "Assets/images/tree-degree.png",
-    "Study/정보처리기사/필기/2024 3회차.md",
-    "Study/정보처리기사/필기/2022 2회차.md",
     "Study/정보처리기사/필기/2024 2회차.md",
+    "Study/정보처리기사/필기/2022 2회차.md",
+    "Study/정보처리기사/필기/2024 3회차.md",
+    "Assets/images/tree-degree.png",
     "README.md",
     "Study/README.md",
     "Assets/images/inspection.png",
@@ -240,7 +240,6 @@
     "Untitled.base",
     "Untitled.canvas",
     "Study/정보처리기사",
-    "Assets/images/notification_arch2.png",
     "Study/대규모 시스템 설계/처리율 제한 장치 실습.md",
     "Study/대규모 시스템 설계/처리율 제한 장치의 설계.md",
     "Study/대규모 시스템 설계/키-값 저장소 실습.md",
