@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "2023년 3회차"
             }
+          },
+          {
+            "id": "1c3cae033678184f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f157c7ba2b23716",
+  "active": "1c3cae033678184f",
   "lastOpenFiles": [
     "Study/정보처리기사/필기/2024 1회차.md",
     "Study/정보처리기사/필기/2024 2회차.md",
