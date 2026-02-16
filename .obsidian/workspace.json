@@ -53,12 +53,14 @@
             "id": "1c3cae033678184f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "분산 트랜잭션 내용 정리"
             }
           }
         ],
@@ -213,6 +215,13 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
+    "Study/분산 트랜잭션/README.md",
+    "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+    "Study/GOF 디자인 패턴/README.md",
+    "Study/토비의 스프링 부트/README.md",
+    "Open Source/README.md",
+    "Study/분산 트랜잭션",
+    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/정보처리기사/필기/2024 1회차.md",
     "Study/정보처리기사/필기/2024 2회차.md",
     "Study/정보처리기사/필기/2024 3회차.md",
@@ -236,10 +245,8 @@
     "Study/대규모 시스템 설계/README.md",
     "Study/대규모 시스템 설계/웹 크롤러 설계.md",
     "Assets/images/news_feed_arch1.png",
-    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Assets/images/binary-tree1.png",
     "Study/정보처리기사/필기",
-    "Open Source/README.md",
     "OpenSource",
     "Assets/images/snowflake_architecture.png",
     "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
@@ -247,18 +254,13 @@
     "Study/Web/README.md",
     "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
     "Assets/images/open-source-auto-params-log1.png",
-    "Study/읽기 좋은 코드/README.md",
-    "Study/GOF 디자인 패턴/README.md",
     "Open Source",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas",
     "Study/정보처리기사",
-    "Study/대규모 시스템 설계/처리율 제한 장치 실습.md",
-    "Study/대규모 시스템 설계/처리율 제한 장치의 설계.md",
     "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴",
     "Study/GOF 디자인 패턴",
-    "Study/Web",
-    "Insights/요즘IT"
+    "Study/Web"
   ]
 }
