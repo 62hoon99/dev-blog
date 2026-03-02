@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+                "file": "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "분산 트랜잭션 내용 정리"
+              "title": "Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
-    "Study/분산 트랜잭션/README.md",
     "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+    "Study/분산 트랜잭션/README.md",
     "Study/GOF 디자인 패턴/README.md",
     "Study/토비의 스프링 부트/README.md",
     "Open Source/README.md",
