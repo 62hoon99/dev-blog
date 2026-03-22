@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
+                "file": "Study/Real MySQL 1권/챕터4/4.1 MySQL 엔진 아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가"
+              "title": "4.1 MySQL 엔진 아키텍처"
             }
           }
         ],
@@ -87,7 +87,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -203,25 +203,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
+    "Assets/images/mysql-query-architecture.png",
+    "Study/Real MySQL 1권/챕터4/4.1 MySQL 엔진 아키텍처.md",
+    "Assets/images/mysql-architecture.png",
+    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
+    "Study/대규모 시스템 설계/안정 해시 설계.md",
+    "Study/대규모 시스템 설계/웹 크롤러 설계.md",
+    "Study/대규모 시스템 설계/키-값 저장소 설계.md",
     "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+    "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
+    "Study/Real MySQL 1권/챕터4",
+    "Study/Real MySQL 1권/README.md",
+    "Study/Real MySQL 1권",
+    "Study/README.md",
     "Study/분산 트랜잭션/README.md",
     "Study/GOF 디자인 패턴/README.md",
     "Study/토비의 스프링 부트/README.md",
     "Open Source/README.md",
     "Study/분산 트랜잭션",
-    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/정보처리기사/필기/2024 1회차.md",
     "Study/정보처리기사/필기/2024 2회차.md",
     "Study/정보처리기사/필기/2024 3회차.md",
@@ -229,7 +240,6 @@
     "Study/정보처리기사/필기/2023년 3회차.md",
     "Assets/images/tree-degree.png",
     "README.md",
-    "Study/README.md",
     "Assets/images/inspection.png",
     "Study/대규모 시스템 설계/뉴스 피드 시스템 설계.md",
     "Assets/images/news_feed_arch3.png",
@@ -239,28 +249,17 @@
     "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
     "Study/대규모 시스템 설계/분산 시스템을 위한 유일 ID 생성기 설계.md",
     "Study/대규모 시스템 설계/사용자 수에 따른 규모 확장성.md",
-    "Study/대규모 시스템 설계/안정 해시 설계.md",
     "Study/대규모 시스템 설계/알림 시스템 설계.md",
     "Study/대규모 시스템 설계/URL 단축기 설계.md",
-    "Study/대규모 시스템 설계/README.md",
-    "Study/대규모 시스템 설계/웹 크롤러 설계.md",
     "Assets/images/news_feed_arch1.png",
     "Assets/images/binary-tree1.png",
     "Study/정보처리기사/필기",
     "OpenSource",
-    "Assets/images/snowflake_architecture.png",
-    "Insights/요즘IT/이메일 인증 종류 별로 구현해보기.md",
-    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴/빌더 패턴과 스텝 빌더 패턴.md",
-    "Study/Web/README.md",
-    "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
-    "Assets/images/open-source-auto-params-log1.png",
     "Open Source",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled.canvas",
     "Study/정보처리기사",
-    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴",
-    "Study/GOF 디자인 패턴",
-    "Study/Web"
+    "Study/GOF 디자인 패턴/객체 생성 관련 디자인 패턴"
   ]
 }
