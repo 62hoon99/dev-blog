@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/챕터4/4.1 MySQL 엔진 아키텍처.md",
+                "file": "Study/Real MySQL 1권/챕터4/4.2 InnoDB 스토리지 엔진 아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 MySQL 엔진 아키텍처"
+              "title": "4.2 InnoDB 스토리지 엔진 아키텍처"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
-    "Assets/images/mysql-query-architecture.png",
     "Study/Real MySQL 1권/챕터4/4.1 MySQL 엔진 아키텍처.md",
+    "Study/Real MySQL 1권/챕터4/4.2 InnoDB 스토리지 엔진 아키텍처.md",
+    "Assets/images/mysql-query-architecture.png",
     "Assets/images/mysql-architecture.png",
     "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/대규모 시스템 설계/안정 해시 설계.md",
