@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/챕터5/5.1 트랜잭션.md",
+                "file": "Study/Real MySQL 1권/챕터5/5.2 MySQL 엔진의 잠금.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 트랜잭션"
+              "title": "5.2 MySQL 엔진의 잠금"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
-    "Study/Real MySQL 1권/챕터4/4.2 InnoDB 스토리지 엔진 아키텍처.md",
     "Study/Real MySQL 1권/챕터5/5.1 트랜잭션.md",
+    "Study/Real MySQL 1권/챕터5/5.2 MySQL 엔진의 잠금.md",
+    "Study/Real MySQL 1권/챕터4/4.2 InnoDB 스토리지 엔진 아키텍처.md",
     "Study/Real MySQL 1권/챕터5",
     "Study/Real MySQL 1권/챕터4/4.1 MySQL 엔진 아키텍처.md",
     "Assets/images/mysql-query-architecture.png",
@@ -252,7 +253,6 @@
     "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
     "Study/대규모 시스템 설계/분산 시스템을 위한 유일 ID 생성기 설계.md",
     "Study/대규모 시스템 설계/사용자 수에 따른 규모 확장성.md",
-    "Study/대규모 시스템 설계/알림 시스템 설계.md",
     "Assets/images/news_feed_arch1.png",
     "Assets/images/binary-tree1.png",
     "Study/정보처리기사/필기",
