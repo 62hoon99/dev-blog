@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/챕터9/9장 옵티마이저와 힌트.md",
+                "file": "Study/Real MySQL 1권/챕터9/9.3 고급 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9장 옵티마이저와 힌트"
+              "title": "9.3 고급 최적화"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
-    "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
     "Study/Real MySQL 1권/챕터9/9장 옵티마이저와 힌트.md",
+    "Study/Real MySQL 1권/챕터9/9.3 고급 최적화.md",
+    "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
     "Study/Real MySQL 1권/챕터9",
     "Study/Real MySQL 1권/챕터8/8.3 B-Tree 인덱스.md",
     "Study/Real MySQL 1권/챕터8/8.3.md",
@@ -249,7 +250,6 @@
     "Study/토비의 스프링 부트/README.md",
     "Open Source/README.md",
     "Study/분산 트랜잭션",
-    "Study/정보처리기사/필기/2024 1회차.md",
     "Assets/images/tree-degree.png",
     "Assets/images/inspection.png",
     "Assets/images/news_feed_arch3.png",
