@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
+                "file": "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RealMySQL 8.0 — 실행 계획 실습 가이드"
+              "title": "분산 트랜잭션 내용 정리"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
-    "Study/Real MySQL 1권/챕터10/실행 계획.md",
     "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
+    "Study/Real MySQL 1권/챕터10/실행 계획.md",
     "Study/Real MySQL 1권/실습",
     "Study/Real MySQL 1권/챕터9/9.3 고급 최적화.md",
     "Study/Real MySQL 1권/챕터10",
