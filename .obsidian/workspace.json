@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
+                "file": "Study/Real MySQL 1권/실습/실습 내용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "분산 트랜잭션 내용 정리"
+              "title": "실습 내용"
             }
           }
         ],
@@ -216,6 +216,8 @@
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
     "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
+    "Study/Real MySQL 1권/실습/실습 내용.md",
+    "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
     "Study/Real MySQL 1권/챕터10/실행 계획.md",
     "Study/Real MySQL 1권/실습",
     "Study/Real MySQL 1권/챕터9/9.3 고급 최적화.md",
@@ -243,14 +245,12 @@
     "Study/대규모 시스템 설계/안정 해시 설계.md",
     "Study/대규모 시스템 설계/웹 크롤러 설계.md",
     "Study/대규모 시스템 설계/키-값 저장소 설계.md",
-    "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
     "Study/Web/실습으로 배우는 선착순 이벤트 시스템.md",
     "Study/Real MySQL 1권/챕터4",
     "Study/Real MySQL 1권/README.md",
     "Study/Real MySQL 1권",
     "Study/README.md",
     "Study/분산 트랜잭션/README.md",
-    "Study/GOF 디자인 패턴/README.md",
     "Study/분산 트랜잭션",
     "Assets/images/tree-degree.png",
     "Assets/images/inspection.png",
