@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "29ed9f1e8ad44354",
@@ -217,8 +216,8 @@
   "active": "1c3cae033678184f",
   "lastOpenFiles": [
     "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
-    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/Real MySQL 1권/실습/실습 내용.md",
+    "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
     "Study/Real MySQL 1권/챕터10/실행 계획.md",
     "Study/Real MySQL 1권/실습",
