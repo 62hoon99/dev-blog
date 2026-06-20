@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
+                "file": "Study/Real MySQL 1권/실습/실습 내용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4 ~ 8.10 인덱스 관련 내용 정리"
+              "title": "실습 내용"
             }
           }
         ],
@@ -213,12 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a219780ff2757fcd",
+  "active": "1c3cae033678184f",
   "lastOpenFiles": [
+    "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
+    "Study/Real MySQL 1권/실습/실습 내용.md",
+    "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
     "Study/Real MySQL 1권.zip",
     "Study/Real MySQL 1권/챕터8/8.2 인덱스.md",
-    "Study/Real MySQL 1권/실습/실습 내용.md",
-    "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
     "Open Source/Auto Params - @LogResolution 사용 시 세터(setter) 메서드로부터 속성 이름 추론 기능 추가.md",
     "Study/분산 트랜잭션/분산 트랜잭션 내용 정리.md",
     "Study/Real MySQL 1권/챕터10/실행 계획.md",
@@ -226,7 +227,6 @@
     "Study/Real MySQL 1권/챕터9/9.3 고급 최적화.md",
     "Study/Real MySQL 1권/챕터10",
     "Study/Real MySQL 1권/챕터9/9장 옵티마이저와 힌트.md",
-    "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
     "Study/Real MySQL 1권/챕터9",
     "Study/Real MySQL 1권/챕터8/8.3 B-Tree 인덱스.md",
     "Study/Real MySQL 1권/챕터8/8.3.md",
@@ -260,7 +260,6 @@
     "Pasted image 20260125212821.png",
     "Assets/images/news_feed_arch1.png",
     "Assets/images/binary-tree1.png",
-    "Study/정보처리기사/필기",
     "Untitled.canvas"
   ]
 }
