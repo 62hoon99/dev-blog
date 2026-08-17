@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Real MySQL 1권/실습/실습 내용.md",
+                "file": "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실습 내용"
+              "title": "마스터 슬레이브 DB 구성 실습"
             }
           }
         ],
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3cae033678184f",
+  "active": "a219780ff2757fcd",
   "lastOpenFiles": [
-    "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
     "Study/Real MySQL 1권/실습/실습 내용.md",
+    "Study/Real MySQL 1권/실습/RealMySQL 8.0 — 실행 계획 실습 가이드.md",
     "Study/Real MySQL 1권/챕터8/8.4 ~ 8.10 인덱스 관련 내용 정리.md",
     "Study/Real MySQL 1권.zip",
     "Study/Real MySQL 1권/챕터8/8.2 인덱스.md",
