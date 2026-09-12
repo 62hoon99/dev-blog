@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "SQS & SNS 정리"
             }
+          },
+          {
+            "id": "f1a4634fb371e694",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.13.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -121,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "29ed9f1e8ad44354",
@@ -214,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3cae033678184f",
+  "active": "f1a4634fb371e694",
   "lastOpenFiles": [
     "Study/대규모 시스템 설계/마스터 슬레이브 DB 구성 실습.md",
     "Study/AWS/SQS & SNS 정리.md",
