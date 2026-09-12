@@ -67,12 +67,14 @@
             "id": "f1a4634fb371e694",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "Insights/올리브영/올리브영 결제 이야기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.13.7"
+              "icon": "lucide-file",
+              "title": "올리브영 결제 이야기"
             }
           }
         ],
